@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">lolkekcheburek</string>
-
+<string-array name="slaves"> slave1</string-array>
 
 </resources>

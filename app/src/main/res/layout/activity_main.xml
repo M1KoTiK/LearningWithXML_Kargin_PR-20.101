@@ -20,7 +20,7 @@
             />
             
             <ImageView 
-                android:layout_width="400px" 
+                android:layout_width="400px"
                 android:layout_height="200px"
                 xmlns:android="http://schemas.android.com/apk/res/android"
                 />
@@ -29,6 +29,7 @@
             android:layout_height="200px"
             android:text="ага"
             android:textSize="35dp"
+            android:textColor="@color/purple_700"
             />
         
     </LinearLayout>  
@@ -72,9 +73,12 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="200px" >
-            <EditText
+            <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                android:text="re"
+                android:textSize="40dp"
+                android:textAlignment="center"
                 />
 
         </LinearLayout>
